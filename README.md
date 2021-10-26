@@ -18,6 +18,8 @@ Enter the following in the command line:
 $ git clone https://github.com/jwm112/Exercise5.git
 $ cd ../lab-5/Exercise5/Exercise5
 
+Open the program file
+
 
 BUGS & FIXES
 ------------
